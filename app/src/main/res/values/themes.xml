@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="BaseTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/indigo_400</item>
+        <item name="colorPrimaryVariant">@color/indigo_600</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/indigo_400</item>
+        <item name="colorSecondaryVariant">@color/indigo_600</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="fontFamily">@font/dana</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/drawer_list_selector</item>
+
+        <item name="navigationIcon">@drawable/ic_round_arrow_right_24</item>
+
+        <item name="materialButtonStyle">@style/AppButtonStyle</item>
+        <item name="textInputStyle">@style/AppTextInputLayout</item>
+
+    </style>
+
+    <style name="Theme.News" parent="BaseTheme">
+
+    </style>
+
+    <style name="Theme.News.Splash">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+</resources>

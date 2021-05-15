@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_calendar_height">290sp</dimen>
+    <dimen name="grid_calendar_padding">20sp</dimen>
+    <dimen name="grid_calendar_padding_bottom">0sp</dimen>
+
+    <dimen name="day_item_size">32dp</dimen>
+    <dimen name="day_item_margin_size">4sp</dimen>
+
+    <dimen name="day_item_select_size">28sp</dimen>
+    <dimen name="day_item_event_size">2sp</dimen>
+    <dimen name="low_margin">4dp</dimen>
+    <dimen name="cardView_elevetion">0dp</dimen>
+    <dimen name="item_elevetion">1dp</dimen>
+    <dimen name="toolbar_elevation">0dp</dimen>
+    <dimen name="cardView_radius">5dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="standard_padding">8dp</dimen>
+    <dimen name="standard_margin">8dp</dimen>
+</resources>

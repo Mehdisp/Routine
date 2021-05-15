@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Routine</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="tasks">Tasks</string>
+    <string name="go_to_today">go to today</string>
+
+
+    <array name="task_times">
+        <item>امروز</item>
+        <item>فردا</item>
+        <item>سه روز بعد</item>
+        <item>هفته بعد</item>
+        <item>انتخاب تاریخ</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="notes">یادداشت ها</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="transparent_white_background">#a9ffffff</color>
+    <color name="selectDay">#FFFFFF</color>
+
+    <color name="calenderBackground">#292929</color>
+
+    <color name="dayNameSolid">#3C3F41</color>
+    <color name="dayNameStroke">#3C3F41</color>
+    <color name="dayNameTextColor">#FFFFFF</color>
+
+    <color name="currentDaySolid">#FFDDB5</color>
+    <color name="currentDayStroke">#FF8C00</color>
+    <color name="currentDayTextColor">#FF8C00</color>
+
+</resources>

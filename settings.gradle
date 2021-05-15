@@ -1,0 +1,3 @@
+include ':persiancalendar'
+include ':app'
+rootProject.name = "News"

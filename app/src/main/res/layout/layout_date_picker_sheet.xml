@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clipToPadding="false"
+    android:orientation="vertical"
+    android:paddingStart="24dp"
+    android:paddingTop="24dp"
+    android:paddingEnd="24dp"
+    android:paddingBottom="32dp">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="تاریخ را وارد کنید"
+        android:textSize="20sp"
+        app:fontFamily="@font/danafanumextrabold" />
+
+    <ir.mehdisp.persiancalendar.ui.PersianDatePicker
+        android:id="@+id/date_picker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        app:displayMonthNames="true"
+        app:divider_color="@color/indigo_400"
+        app:maxYear="1401"
+        app:minYear="1400"
+        app:selected_text_color="@color/indigo_400"
+        app:selected_typeface="@font/danafanumbold"
+        app:text_color="@color/grey_600"
+        app:typeface="@font/danafanumregular" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/done"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="تایید"
+        android:textSize="16sp"
+        app:icon="@drawable/ic_round_check_24"
+        app:iconGravity="textStart"
+        app:iconPadding="24dp" />
+
+</LinearLayout>
