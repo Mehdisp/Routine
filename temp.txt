@@ -1,7 +1,1 @@
-vless://93f0ae9d-03f1-4f69-a98a-01fb8bb3583b@195.190.144.19:8251?encryption=none&security=none&alpn=http%2F1.1&type=tcp&headerType=http&path=/&host=skyroom.online,igap.net,gharar.ir#NullNetwork1111
-
-vless://93f0ae9d-03f1-4f69-a98a-01fb8bb3583b@newhorizon-dev.xuplink.xyz:8251?encryption=none&security=none&alpn=http%2F1.1&type=tcp&headerType=http&path=/&host=skyroom.online,gharar.ir,igap.net#NullNetwork2222
-
-vless://93f0ae9d-03f1-4f69-a98a-01fb8bb3583b@85.133.236.5:3460?encryption=none&security=none&alpn=http%2F1.1&type=tcp&headerType=http&path=/&host=skyroom.online,igap.net,gharar.ir#NullNetwork3333
-
-vless://93f0ae9d-03f1-4f69-a98a-01fb8bb3583b@newhorizon-dev.de1.xuplink.xyz:3460?encryption=none&security=none&alpn=http%2F1.1&type=tcp&headerType=http&path=/&host=skyroom.online,gharar.ir,igap.net#NullNetwork4444
+vless://2821106e-5221-460d-965a-821941655655@2.180.4.22:2083?security=reality&sni=www.microsoft.com&fp=chrome&pbk=gUSJfVThe_GHfmWyFMujeV_wJgYkAyymOHFuU6EfCiU&sid=12345678&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#Sherkat-Sadeghian
